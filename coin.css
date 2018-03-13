@@ -1,0 +1,19 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin: auto;
+}
+
+header {
+    text-align: center;
+}
+
+#container {
+    width: 600px;
+    margin-top: 40px;
+    margin:0 auto;
+    text-align: center;
+}
+
+#contentarea {
+    margin-top: 50px;
+}
